@@ -1,3 +1,5 @@
+#파일 불러와 textmining
+
 setwd("C:/Users/yeonjae/Desktop/R을 이용한 빅데이터 분석")
 library(KoNLP)
 library(wordcloud)
