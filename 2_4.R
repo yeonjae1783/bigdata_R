@@ -1,3 +1,5 @@
+#영문 파일중 원하는 부분만 textmining
+
 setwd("C:/Users/yeonjae/Desktop/R을 이용한 빅데이터 분석/데이터/제2장")
 library(tm)
 library(wordcloud)
