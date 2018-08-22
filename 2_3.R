@@ -1,3 +1,6 @@
+#영문파일 textmining wordcloud
+
+
 setwd("C:/Users/yeonjae/Desktop/R을 이용한 빅데이터 분석")
 #install.packages("tm")
 library(tm)
